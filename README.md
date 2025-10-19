@@ -128,3 +128,13 @@ Understanding these design properties helps bridge the gap between **design and 
 
 ---
 
+| **Role**                  | **Description**                                                 | **Key Responsibilities**                                                                                                                                         |
+| ------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project Manager**       | Oversees the entire project and ensures timely delivery.        | - Defines project scope and goals.<br>- Coordinates between teams.<br>- Tracks progress and milestones.<br>- Manages resources and risks.                        |
+| **Frontend Developer(s)** | Handles the client-side part of the application.                | - Implements user interfaces using HTML, CSS, and JavaScript.<br>- Ensures responsive and accessible design.<br>- Integrates frontend with backend APIs.         |
+| **Backend Developer(s)**  | Develops and maintains server-side logic.                       | - Builds RESTful APIs using Flask and Python.<br>- Connects application logic with the database.<br>- Ensures security and performance optimization.             |
+| **UI/UX Designer**        | Creates design layouts, wireframes, and visual guidelines.      | - Designs user-friendly interfaces in Figma.<br>- Defines color schemes, typography, and layout consistency.<br>- Ensures usability and accessibility standards. |
+| **QA/Testers**            | Ensures product quality and reliability.                        | - Writes and executes test cases.<br>- Identifies and reports bugs.<br>- Validates new features before deployment.                                               |
+| **DevOps Engineer**       | Manages deployment, CI/CD pipelines, and server infrastructure. | - Automates deployment workflows.<br>- Monitors application performance.<br>- Manages environments and configurations.                                           |
+| **Product Owner**         | Defines the product vision and manages the backlog.             | - Prioritizes user stories and features.<br>- Aligns product goals with user needs.<br>- Communicates feedback to the development team.                          |
+| **Scrum Master**          | Facilitates agile processes and sprint execution.               | - Conducts daily stand-ups and retrospectives.<br>- Removes blockers for the team.<br>- Ensures adherence to agile practices.                                    |
