@@ -139,3 +139,21 @@ Understanding these design properties helps bridge the gap between **design and 
 | **DevOps Engineer**       | Manages deployment, CI/CD pipelines, and server infrastructure. | - Automates deployment workflows.<br>- Monitors application performance.<br>- Manages environments and configurations.                                           |
 | **Product Owner**         | Defines the product vision and manages the backlog.             | - Prioritizes user stories and features.<br>- Aligns product goals with user needs.<br>- Communicates feedback to the development team.                          |
 | **Scrum Master**          | Facilitates agile processes and sprint execution.               | - Conducts daily stand-ups and retrospectives.<br>- Removes blockers for the team.<br>- Ensures adherence to agile practices.                                    |
+
+
+## UI Component Patterns
+
+In this section, we outline the **key reusable UI components** that will be created for the AirBnB Clone project.  
+These components will ensure design consistency, improve code reusability, and enhance the overall user experience.
+
+### 🎨 Planned Components
+
+| Component | Description |
+|------------|--------------|
+| **Navbar** | A fixed navigation bar that allows users to access main sections such as Home, Listings, Login, and Signup easily. It will include logo placement, search input, and user menu options. |
+| **Property Card** | A dynamic component used to display property details such as image, title, price, location, and rating. It will appear across listing and search pages. |
+| **Footer** | A responsive footer that provides links to support pages, social media, and copyright information. Designed to maintain brand identity and accessibility standards. |
+
+### 🧱 Importance of Component Patterns
+UI components help maintain **visual harmony**, reduce repetitive code, and support **scalable design systems**.  
+By planning component patterns early, developers can ensure a **modular and efficient frontend architecture** that simplifies collaboration and updates.
