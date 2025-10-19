@@ -128,7 +128,8 @@ Understanding these design properties helps bridge the gap between **design and 
 
 ---
 
-| **Role**                  | **Description**                                                 | **Key Responsibilities**                                                                                                                                         |
+| **Role**                  | **Description**                                                 | **Key Responsibilities**                                                      ## Project Roles and Responsibilities
+                                                                                   |
 | ------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Project Manager**       | Oversees the entire project and ensures timely delivery.        | - Defines project scope and goals.<br>- Coordinates between teams.<br>- Tracks progress and milestones.<br>- Manages resources and risks.                        |
 | **Frontend Developer(s)** | Handles the client-side part of the application.                | - Implements user interfaces using HTML, CSS, and JavaScript.<br>- Ensures responsive and accessible design.<br>- Integrates frontend with backend APIs.         |
