@@ -84,3 +84,47 @@ When users can easily navigate listings, view details, and complete bookings wit
 The AirBnB Clone design aims to combine **aesthetic appeal with usability**, ensuring that every interaction feels smooth, professional, and reliable.
 
 ---
+
+
+---
+
+### 🎨 More on UI/UX Design Planning
+
+#### 🎨 Color Styles
+The color palette defines the visual identity and mood of the AirBnB Clone interface.  
+Each color plays a unique role in guiding user actions and creating an emotional connection.
+
+| Color Role | Color Name | Hex Code | Usage |
+|-------------|-------------|----------|--------|
+| **Primary Color** | AirBnB Coral | `#FF5A5F` | Used for buttons, highlights, and primary CTAs |
+| **Secondary Color** | Teal Blue | `#008489` | Used for accents, icons, and secondary buttons |
+| **Neutral Light** | Light Gray | `#F7F7F7` | Backgrounds and layout sections |
+| **Neutral Dark** | Charcoal Gray | `#484848` | Headings, text, and contrast areas |
+| **White** | Pure White | `#FFFFFF` | Used for clean backgrounds and spacing |
+
+---
+
+#### ✍️ Typography
+Typography defines how content communicates visually. It should be clean, legible, and consistent across all pages.
+
+| Font Use | Font Family | Font Weight | Font Size (px) |
+|-----------|--------------|--------------|----------------|
+| **Headings (H1, H2)** | Poppins | 600 (Semi-Bold) | 24–36px |
+| **Subheadings (H3, H4)** | Poppins | 500 (Medium) | 18–22px |
+| **Body Text** | Open Sans | 400 (Regular) | 14–16px |
+| **Buttons & Labels** | Poppins | 500 (Medium) | 14px |
+
+---
+
+#### 💡 Importance of Identifying Design Properties in a Mockup
+When working with **Figma**, identifying design properties like **colors, typography, spacing, and components** is vital because it ensures:
+- **Consistency:** Every page and component looks uniform throughout the app.  
+- **Collaboration:** Developers, designers, and testers can easily communicate using shared design values.  
+- **Efficiency:** Speeds up the development process by reusing consistent design tokens.  
+- **Scalability:** When updates occur (e.g., a new color scheme), changes can be applied globally without breaking the layout.  
+- **Accessibility:** Ensures proper contrast, readability, and usability across all devices.  
+
+Understanding these design properties helps bridge the gap between **design and development**, ensuring the mockup in Figma is accurately translated into real, functional code.
+
+---
+
